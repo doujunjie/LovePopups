@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Dockerfile</id>
+          </State>
+          <State>
+            <id>ES2015 迁移协助JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JVM 语言</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 15Java 语言级别迁移帮助Java</id>
+          </State>
+          <State>
+            <id>Java 21Java 语言级别迁移帮助Java</id>
+          </State>
+          <State>
+            <id>Java 语言级别迁移帮助Java</id>
+          </State>
+          <State>
+            <id>JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>UI 窗体</id>
+          </State>
+          <State>
+            <id>代码样式问题Java</id>
+          </State>
+          <State>
+            <id>冗余结构Kotlin</id>
+          </State>
+          <State>
+            <id>可移植性Java</id>
+          </State>
+          <State>
+            <id>可能引起混淆的代码结构JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>可能的 bugJava</id>
+          </State>
+          <State>
+            <id>国际化</id>
+          </State>
+          <State>
+            <id>国际化Java</id>
+          </State>
+          <State>
+            <id>安全性Java</id>
+          </State>
+          <State>
+            <id>属性文件</id>
+          </State>
+          <State>
+            <id>嵌入式性能Java</id>
+          </State>
+          <State>
+            <id>性能Java</id>
+          </State>
+          <State>
+            <id>日志记录JVM 语言</id>
+          </State>
+          <State>
+            <id>有效性问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>样式Groovy</id>
+          </State>
+          <State>
+            <id>样式问题Kotlin</id>
+          </State>
+          <State>
+            <id>正则表达式</id>
+          </State>
+          <State>
+            <id>用户定义</id>
+          </State>
+          <State>
+            <id>线程问题Groovy</id>
+          </State>
+          <State>
+            <id>线程问题Java</id>
+          </State>
+          <State>
+            <id>记录Java</id>
+          </State>
+          <State>
+            <id>详细或冗余的代码结构Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>用户定义</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
